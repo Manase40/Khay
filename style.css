@@ -1,0 +1,109 @@
+.fNav{
+    background-color:goldenrod;
+    display: flex;
+    padding: 20px 40px 20px 40px;
+       
+}
+.fNav:hover{
+    background-color: white;
+    
+}
+
+
+.on{
+    padding-left: 1000px;
+    margin: 20px;
+}
+
+.ca{
+    background-color: goldenrod;
+    display: flex;
+    padding: 20px 40px 20px 40px;
+    
+}
+ .paa{
+     padding: 20px 40px 20px 40px;
+     display: flex;
+
+ }
+ .paa2{
+     font-size: xx-large;
+     text-align: center;
+     margin-top: 150px;
+     text-decoration: solid;
+ }
+
+ .yolo{
+     padding:20px 40px 20px 40px; ;
+     display: flex;
+ }
+ .yol{
+     font-size: xx-large;
+     text-align: center;
+     margin-top: 150px ;
+     text-decoration: solid;
+ }
+ 
+
+ .mac{
+     padding: 20px 40px 20px 40px;
+     display: flex;
+ }
+ .mc{
+     font-size: xx-large;
+     text-align: center;
+     margin-top: 150px;
+     text-decoration: solid;
+ }
+
+
+ .como{
+     display: flex;
+     padding: 20px 40px 20px 40px;
+ }
+ .com{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 150px;
+    text-decoration: solid;
+ }
+
+
+ .lapi{
+    display: flex;
+    padding: 20px 40px 20px 40px;
+ }
+ .lap{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 150px;
+    text-decoration: solid;
+ }
+
+ .vim{
+    padding: 20px 40px 20px 40px;
+
+ }
+
+
+ .dudo{
+    display: flex;
+    padding: 20px 40px 20px 40px;
+
+ }
+
+ .last{
+    display: flex;
+    padding: 20px 40px 20px 40px;
+ }
+
+ 
+.done{
+    text-align: center;
+    padding: 20px 40px 20px 40px;
+    text-decoration: solid;
+    font-size: 30px;
+    background-color: yellow;
+
+}
+ 
